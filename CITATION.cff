@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the paper."
+title: "Sample Complexity for Generative Learning of Quantum Measurement Data: code and data"
+authors:
+  - family-names: Zhang
+    given-names: Shuhan
+    affiliation: "Department of Physics, University of California, San Diego"
+  - family-names: You
+    given-names: Yi-Zhuang
+    affiliation: "Department of Physics, University of California, San Diego"
+version: 1.0.0
+date-released: 2026-11-09
+license: MIT
+repository-code: "https://github.com/S00Zhang/quantum-measurement-sample-complexity"
+preferred-citation:
+  type: article
+  title: "Sample Complexity for Generative Learning of Quantum Measurement Data"
+  authors:
+    - family-names: Zhang
+      given-names: Shuhan
+    - family-names: You
+      given-names: Yi-Zhuang
+  year: 2026
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2610.38028"
+  url: "https://arxiv.org/abs/2610.38028"
